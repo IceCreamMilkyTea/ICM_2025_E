@@ -3,4 +3,4 @@
 
 - Multi-objective optimization with NSGA-II 
 - ODE solving
-- Code was written under MCM-ICM contest time pressure and is not polished — feel free to explore or ask me!
+Code was written under MCM-ICM contest time pressure and is not polished — feel free to explore or ask me!
